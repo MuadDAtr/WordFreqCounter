@@ -13,7 +13,11 @@ class FreqQUI:
         self.button = tk.Button(self.root, text = "Count", font = ('Arial', 14))
         self.button.pack(padx = 10, pady = 10)
 
+        
+
         self.root.mainloop()
 
+    def show_message:
+        
 
 FreqQUI()
